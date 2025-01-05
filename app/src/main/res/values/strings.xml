@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QRPay APP</string>
+    <string name="value_input">Valor</string>
+    <string name="generate_btn">Gerar QRCode</string>
+    <string name="value_qrcode_view">R$</string>
+    <string name="value_default">0.00</string>
+    <string name="qrcode_description">QRCode gerado</string>
+    <string name="merchant_name">Nome do comerciante</string>
+    <string name="pix_merchant_city_hint">Cidade do comerciante</string>
+    <string name="pix_key">Chave do PIX</string>
+    <string name="pix_button">Salvar</string>
+    <string name="pix_update_message">
+        A atualização foi realizada com sucesso!
+    </string>
+    <string name="pix_create_message">
+        A criação foi realizada com sucesso!
+    </string>
+    <string name="ok_message">Ok</string>
+    <string name="pix_not_found">
+        Cadastre sua chave pix.
+    </string>
+    <string name="pix_value_not_found">
+        O valor não foi informado.
+    </string>
+</resources>

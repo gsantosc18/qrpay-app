@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_app">QR Pay</string>
+    <string name="home">Gerar QRCode</string>
+    <string name="qrcode">QRCode Gerado</string>
+    <string name="pix">Cadastro de Pix</string>
+</resources>
