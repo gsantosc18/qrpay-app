@@ -2,7 +2,7 @@
 
 ![Github repo size](https://img.shields.io/github/repo-size/gsantosc18/qrpay-app?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/gsantosc18/qrpay-app?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/gsantosc18/qrpay-app)
+![GitHub top language](https://img.shields.io/github/languages/top/gsantosc18/qrpay-app?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/gsantosc18/qrpay-app?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gsantosc18/qrpay-app?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gsantosc18/qrpay-app?style=for-the-badge)
