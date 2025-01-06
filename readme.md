@@ -12,12 +12,15 @@ Aplicativo de geração de QRCode para pagamento via pix com valor previamente i
 # Telas
 
 - Load
+
 ![Load Screen](./docs/load.png)
 
 - Home
+
 ![Home Screen](./docs/home.png)
 
 - Cadastro de PIX
+
 ![Create Pix Screen](./docs/cadastro_pix.png)
 
 ## Referência
